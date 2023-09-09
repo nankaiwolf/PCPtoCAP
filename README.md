@@ -1,5 +1,7 @@
 Metagenomic Analysis of Lower Respiratory Tract of Pneumocystic Pneumonia Patients
+
 Dexun Zhou1, Yu Xu1,2, Wen Xi1, Ying Shang1, Zhengwu Yang1, Ran Li1, Zhancheng Gao1
+
 Affiliations: 
 1. Department of Respiratory and Critical Care Medicine, Peking University People's Hospital
 2. Department of Respiratory and Critical Care Medicine, Beijing Jishuitan Hospital
